@@ -1,4 +1,4 @@
-## Hi 👋, my name is Wu Li
+## Hi 👋, My Name is Wu Li
 ### I am a SWE from Boston, B.S Computer Science from UMass Lowell.
 
 - 👨‍💻 All of my projects are available at my [website](wuhuili.com).
