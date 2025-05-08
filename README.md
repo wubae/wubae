@@ -1,7 +1,7 @@
 # Hi 👋, My Name is Wu Li
 ## I am a SWE from Boston 🍀, B.S Computer Science from UMass Lowell.
 
-- 👨‍💻 All of my projects are available at my <a href="wuhuili.com">website.</a>
+- 👨‍💻 All of my projects are available at my <a href="https://www.wuhuili.com">website.</a>
   
 - 💬 Ask me about strength training and fitness.
   
