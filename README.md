@@ -6,5 +6,8 @@
 - 📫 How to reach me: liwuhui5@gmail.com
 
 ### Connect with Me:
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/liwuhui)
+<a href="https://www.linkedin.com/in/liwuhui">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32"/>
+</a>
+
 
