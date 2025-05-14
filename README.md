@@ -5,7 +5,7 @@
   
 - 💬 Ask me about strength training and fitness.
   
-- 📫 How to reach me: liwuhui5@gmail.com
+- 📫 How to reach me: wuhui_li@outlook.com
 
 ## Connect with Me:
 <a href="https://www.linkedin.com/in/liwuhui">
