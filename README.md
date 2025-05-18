@@ -11,7 +11,3 @@
 <a href="https://www.linkedin.com/in/liwuhui">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="32"/>
 </a>
-
-<a href="mailto:wuhui_li@outlook.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" alt="Email"/>
-</a>
