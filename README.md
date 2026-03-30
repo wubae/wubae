@@ -1,11 +1,11 @@
-# Hi 👋, My Name is Wu Li
+# Hi 👋 My Name is Wu Li
 ## I am a SWE from Boston 🍀
 
-- 👨‍💻 All of my projects are available at my <a href="https://www.wuhuili.com">website.</a>
+👨‍💻 All of my projects are available at my <a href="https://www.wuhuili.com">website.</a>
   
-- 💬 Ask me about strength training and fitness.
+💬 Ask me about strength training and fitness.
   
-- 📫 How to reach me: wuhui_li@outlook.com
+📫 How to reach me: wuhui_li@outlook.com
 
 ## Connect with Me:
 <a href="https://www.linkedin.com/in/liwuhui">
